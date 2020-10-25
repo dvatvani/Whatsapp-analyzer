@@ -2,6 +2,8 @@
 
 A Jupyter (Python) Notebook to analyse WhatsApp chat logs. 
 
+More information about what the notebook does and how to interpret some of the results can be found in this [Blog post](https://dvatvani.github.io/whatsapp-analysis.html).
+
 # Usage instructions
 
 1. Clone or download a local copy of this repository
